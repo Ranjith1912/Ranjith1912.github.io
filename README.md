@@ -1,2 +1,2 @@
- Source code for (https://ranjith1912.github.io/2003/)
+ Source code for (ranjith1912.github.io)
 Built with Bootstrap
